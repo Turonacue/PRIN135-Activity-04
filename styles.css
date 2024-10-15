@@ -186,6 +186,13 @@ h1 {
     left: 20%;
 }
 
+.dividerblack {
+    width: 6px;
+    height: 100%;
+    background-color: white;
+    position: absolute;
+    left: 20%;
+}
 
 
   
