@@ -1,9 +1,191 @@
 body {
-    background-color: powderblue;
-  }
-  h1 {
-    color: blue;
-  }
-  p {
-    color: red;
-  }
+    background-color: cornsilk;
+}
+h1 {
+    text-align: center;
+    font-weight: bold;
+    font-family: "Bebas Neue", sans-serif;
+    font-style: normal;
+}
+
+.marker {
+    width: 300px;
+    height: 50px;
+    margin: 20px auto;
+    border-radius: 5px;
+    position: relative;
+    font-family: "Agdasima", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.marker span {
+    position: absolute;
+    top: 50%;
+    left: 110%;
+    transform: translateY(-50%);
+    font-size: 1.2em;
+    color: black;
+}
+
+.red {
+    background-color: red;
+    box-shadow: 0 0 15px red;
+}
+
+.salmon {
+    background-color: salmon;
+    box-shadow: 0 0 15px salmon;
+}
+
+.maroon {
+    background-color: maroon;
+    box-shadow: 0 0 15px maroon;
+}
+
+.crimson {
+    background-color: crimson;
+    box-shadow: 0 0 15px crimson;
+}
+
+.pink {
+    background-color: pink;
+    box-shadow: 0 0 15px pink;
+}
+
+.hotpink {
+    background-color: hotpink;
+    box-shadow: 0 0 15px hotpink;
+}
+
+.deeppink {
+    background-color: deeppink;
+    box-shadow: 0 0 15px deeppink;
+}
+
+.orange {
+    background-color: orange;
+    box-shadow: 0 0 15px orange;
+}
+
+.tomato {
+    background-color: tomato;
+    box-shadow: 0 0 15px tomato;
+}
+
+.green {
+    background-color: green;
+    box-shadow: 0 0 15px green;
+}
+
+.lime {
+    background-color: lime;
+    box-shadow: 0 0 15px lime;
+}
+
+.palegreen {
+    background-color: palegreen;
+    box-shadow: 0 0 15px palegreen;
+}
+
+.teal {
+    background-color: teal;
+    box-shadow: 0 0 15px teal;
+}
+
+.blue {
+    background-color: blue;
+    box-shadow: 0 0 15px blue;
+}
+
+.navy {
+    background-color: navy;
+    box-shadow: 0 0 15px navy;
+}
+
+.skyblue {
+    background-color: skyblue;
+    box-shadow: 0 0 15px skyblue;
+}
+
+.cyan {
+    background-color: cyan;
+    box-shadow: 0 0 15px cyan;
+}
+
+.aquamarine {
+    background-color: aquamarine;
+    box-shadow: 0 0 15px aquamarine;
+}
+
+.turquoise {
+    background-color: turquoise;
+    box-shadow: 0 0 15px turquoise;
+}
+
+.yellow {
+    background-color: yellow;
+    box-shadow: 0 0 15px yellow;
+}
+
+.gold {
+    background-color: gold;
+    box-shadow: 0 0 15px gold;
+}
+
+.peachpuff {
+    background-color: peachpuff;
+    box-shadow: 0 0 15px peachpuff;
+}
+
+.khaki {
+    background-color: khaki;
+    box-shadow: 0 0 15px khaki;
+}
+
+.purple {
+    background-color: purple;
+    box-shadow: 0 0 15px purple;
+}
+
+.lavender {
+    background-color: lavender;
+    box-shadow: 0 0 15px lavender;
+}
+
+.magenta {
+    background-color: magenta;
+    box-shadow: 0 0 15px magenta;
+}
+
+.gray {
+    background-color: gray;
+    box-shadow: 0 0 15px gray;
+}
+
+.slategray {
+    background-color: slategray;
+    box-shadow: 0 0 15px slategray;
+}
+
+.dimgray {
+    background-color: dimgray;
+    box-shadow: 0 0 15px dimgray;
+}
+
+.black {
+    background-color: black;
+    box-shadow: 0 0 15px black;
+}
+
+.divider {
+    width: 6px;
+    height: 100%;
+    background-color: black;
+    position: absolute;
+    left: 20%;
+}
+
+
+
+  
